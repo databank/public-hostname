@@ -1,6 +1,6 @@
 {
   "name": "public-hostname",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Resolve public IP address and hostname",
   "main": "index.js",
   "scripts": {
