@@ -1,0 +1,23 @@
+{
+  "name": "public-hostname",
+  "version": "0.0.1",
+  "description": "Resolve public IP address and hostname",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/databank/public-hostname.git"
+  },
+  "keywords": [
+    "ip",
+    "hostname"
+  ],
+  "author": "Adrian Praja",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/databank/public-hostname/issues"
+  },
+  "homepage": "https://github.com/databank/public-hostname#readme"
+}
