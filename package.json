@@ -16,6 +16,9 @@
   ],
   "author": "Adrian Praja",
   "license": "ISC",
+  "dependencies": {
+	  "request": "*"
+  },
   "bugs": {
     "url": "https://github.com/databank/public-hostname/issues"
   },
